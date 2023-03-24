@@ -22,12 +22,21 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"  title="JAVASCRIPT" alt="JS" width="40" heigth="40"/>
        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  title="TYPESCRIPT" alt="TS" width="40" heigth="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  title="REACT" alt="REACT" width="40" heigth="40"/>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Light.svg"  title="VITE" alt="VITE" width="40" heigth="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"  title="ANGULARJS" alt="ANGULAR" width="40" heigth="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="BOOTSTRAP" alt="BOOTSTRAP" width="40" heigth="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="TAILWIND" alt="TAILWIND" width="40" heigth="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"  title="MYSQL" alt="MYSQL" width="40" heigth="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"  title="SQLSERVER" alt="SQLSERVER" width="40" heigth="40"/>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg"  title="MYSQL" alt="MYSQL" width="40" heigth="40"/>
+      <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png"  title="SQLSERVER" alt="SQLSERVER" width="40" heigth="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  title="NPM" alt="NPM" width="40" heigth="40"/>
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Light.svg"  title="POWERSHELL" alt="POWERSHELL" width="40" heigth="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg"  title="LINUX" alt="LINUX" width="40" heigth="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"  title="KOTLIN" alt="KOTLIN" width="40" heigth="40"/>
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Light.svg"  title="NETLIFY" alt="NETLIFY" width="40" heigth="40"/>
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg"  title="FIGMA" alt="FIGMA" width="40" heigth="40"/>
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"  title="POSTMAN" alt="POSTMAN" width="40" heigth="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"  title="GIT" alt="GIT" width="40" heigth="40"/>
+    
   <div/>
 <div/>
   <br>
