@@ -20,6 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"  title="HTML5" alt="HTML" width="40" heigth="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" heigth="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"  title="JAVASCRIPT" alt="JS" width="40" heigth="40"/>
+       <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  title="TYPESCRIPT" alt="TS" width="40" heigth="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  title="REACT" alt="REACT" width="40" heigth="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"  title="ANGULARJS" alt="ANGULAR" width="40" heigth="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="BOOTSTRAP" alt="BOOTSTRAP" width="40" heigth="40"/>
