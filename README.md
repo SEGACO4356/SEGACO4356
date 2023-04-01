@@ -32,6 +32,7 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Light.svg"  title="POWERSHELL" alt="POWERSHELL" width="40" heigth="40"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg"  title="LINUX" alt="LINUX" width="40" heigth="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"  title="KOTLIN" alt="KOTLIN" width="40" heigth="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Light.svg"  title="ANDROID STUDIO" alt="ANDROID STUDIO" width="40" heigth="40"/>
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Light.svg"  title="NETLIFY" alt="NETLIFY" width="40" heigth="40"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg"  title="FIGMA" alt="FIGMA" width="40" heigth="40"/>
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"  title="POSTMAN" alt="POSTMAN" width="40" heigth="40"/>
