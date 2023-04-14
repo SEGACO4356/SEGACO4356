@@ -8,7 +8,7 @@
      <p>💫 About me:<p/>
     <h3>I`m currently working on a project for Musicians called Nodens<h3/>
       <br>
-     <h3>I like to much to Frontend but also i can work as a Backend and a DBA <h3/>
+     <h3>I like to much to work as a Frontend but also i can work as a Backend and a DBA <h3/>
        <br>
       <h3>Right now i`m learning React, Angular, and a bit of Node.js<h3/>
 <div/>
