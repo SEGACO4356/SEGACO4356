@@ -33,6 +33,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  title="NPM" alt="NPM" width="40" heigth="40"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Light.svg"  title="POWERSHELL" alt="POWERSHELL" width="40" heigth="40"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg"  title="LINUX" alt="LINUX" width="40" heigth="40"/>
+    <img src="https://github.com/SEGACO4356/devicon/blob/master/icons/apple/apple-original.svg"  title="APPLE" alt="APPLE" width="40" heigth="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"  title="KOTLIN" alt="KOTLIN" width="40" heigth="40"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Light.svg"  title="ANDROID STUDIO" alt="ANDROID STUDIO" width="40" heigth="40"/>
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Light.svg"  title="NETLIFY" alt="NETLIFY" width="40" heigth="40"/>
