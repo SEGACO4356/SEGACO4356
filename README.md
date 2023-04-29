@@ -10,7 +10,7 @@
       <br>
      <h3>I like to much to work as a Frontend but also i can work as a Backend and a DBA <h3/>
        <br>
-      <h3>Right now i`m learning React, Angular, and a bit of Node.js<h3/>
+      <h3>Right now i`m learning React, Angular, Python and a bit of java. <h3/>
 <div/>
         <br>
         <br>
