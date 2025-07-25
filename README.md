@@ -14,14 +14,14 @@
 
 Soy un apasionado de la programación, adaptable a distintos lenguajes, frameworks y entornos.  
 Busco mejorar continuamente mis habilidades para ofrecer soluciones eficientes y escalables.  
-Me gusta trabajar en equipo y actualmente profundizo en **ciberseguridad ofensiva**, **DevOps** y **microservicios**.
+Me gusta trabajar en equipo y actualmente profundizo en **ciberseguridad ofensiva** y **microservicios**.
 
 ---
 
 ## 🚀 Currently Working On
 
 - **Nodens**: Plataforma colaborativa para músicos (React · Node.js · MongoDB)
-- **Proyecto personal**: Sistema de Inventario con **Django** y **PostgreSQL**
+- **Proyecto personal**: Página de venta de licores con **NodeJS + Express**, **ReactTs + Vite** y **MongoDB**
 
 ---
 
